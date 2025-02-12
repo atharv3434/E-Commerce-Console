@@ -1,6 +1,6 @@
 # E-Commerce-Console
 
-🚀 Project: E-Commerce Console Application (Java-Only)
+🚀 Project: E-Commerce Console Application 
 📌 Description
 This is a Java-based console application that simulates a simple E-Commerce system, where users can:
 ✔ View available products
